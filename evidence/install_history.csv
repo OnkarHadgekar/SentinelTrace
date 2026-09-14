@@ -1,0 +1,794 @@
+DisplayName,DisplayVersion,ProcessName,InstallDate,ContentType,PackageIdentifiers
+macOS 14.5," 14.5",softwareupdated,2024-07-28T10:02:40Z,,
+Pages," 14.0",installer,2024-07-28T10:04:46Z,,"[
+ ""com.apple.pkg.Pages14""
+]"
+,,installer,2024-07-28T10:04:47Z,,"[
+ ""com.apple.cdm.pkg.Pages_MASReceipt""
+]"
+GarageBand,10.4.11,installer,2024-07-28T10:05:16Z,,"[
+ ""com.apple.pkg.GarageBand_AppStore""
+]"
+,,installer,2024-07-28T10:05:17Z,,"[
+ ""com.apple.cdm.pkg.GarageBand_MASReceipt""
+]"
+Keynote," 14.0",installer,2024-07-28T10:05:34Z,,"[
+ ""com.apple.pkg.Keynote14""
+]"
+,,installer,2024-07-28T10:05:35Z,,"[
+ ""com.apple.cdm.pkg.Keynote_MASReceipt""
+]"
+Numbers," 14.0",installer,2024-07-28T10:05:50Z,,"[
+ ""com.apple.pkg.Numbers14""
+]"
+,,installer,2024-07-28T10:05:51Z,,"[
+ ""com.apple.cdm.pkg.Numbers_MASReceipt""
+]"
+iMovie," 10.4",installer,2024-07-28T10:06:30Z,,"[
+ ""com.apple.pkg.iMovie_AppStore""
+]"
+,,installer,2024-07-28T10:06:31Z,,"[
+ ""com.apple.cdm.pkg.iMovie_MASReceipt""
+]"
+MobileAssets,,installer,2024-07-28T10:06:45Z,,"[
+ ""com.apple.pkg.MobileAssets""
+]"
+MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost,2.0.0.0,installer,2024-07-28T10:06:46Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0048_AlchemyPadsDigitalHolyGhost""
+]"
+MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB,2.0.0.0,installer,2024-07-28T10:06:47Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0310_UB_DrumMachineDesignerGB""
+]"
+MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic,2.0.0.0,installer,2024-07-28T10:06:50Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0312_UB_UltrabeatKitsGBLogic""
+]"
+MAContent10_AssetPack_0314_AppleLoopsHipHop1,2.1.0.0,installer,2024-07-28T10:06:52Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0314_AppleLoopsHipHop1""
+]"
+MAContent10_AssetPack_0315_AppleLoopsElectroHouse1,2.1.0.0,installer,2024-07-28T10:06:54Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0315_AppleLoopsElectroHouse1""
+]"
+MAContent10_AssetPack_0316_AppleLoopsDubstep1,2.0.0.0,installer,2024-07-28T10:06:56Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0316_AppleLoopsDubstep1""
+]"
+MAContent10_AssetPack_0317_AppleLoopsModernRnB1,2.0.0.0,installer,2024-07-28T10:06:57Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0317_AppleLoopsModernRnB1""
+]"
+MAContent10_AssetPack_0320_AppleLoopsChillwave1,2.0.0.0,installer,2024-07-28T10:06:59Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0320_AppleLoopsChillwave1""
+]"
+MAContent10_AssetPack_0321_AppleLoopsIndieDisco,2.0.0.0,installer,2024-07-28T10:07:01Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0321_AppleLoopsIndieDisco""
+]"
+MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1,2.0.0.0,installer,2024-07-28T10:07:02Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0322_AppleLoopsDiscoFunk1""
+]"
+MAContent10_AssetPack_0323_AppleLoopsVintageBreaks,2.1.0.0,installer,2024-07-28T10:07:03Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0323_AppleLoopsVintageBreaks""
+]"
+MAContent10_AssetPack_0324_AppleLoopsBluesGarage,2.0.0.0,installer,2024-07-28T10:07:04Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0324_AppleLoopsBluesGarage""
+]"
+MAContent10_AssetPack_0325_AppleLoopsGarageBand1,2.1.0.0,installer,2024-07-28T10:07:05Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0325_AppleLoopsGarageBand1""
+]"
+MAContent10_AssetPack_0354_EXS_PianoSteinway,2.0.0.0,installer,2024-07-28T10:07:07Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0354_EXS_PianoSteinway""
+]"
+MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz,2.0.0.0,installer,2024-07-28T10:07:09Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0357_EXS_BassAcousticUprightJazz""
+]"
+MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle,2.0.0.0,installer,2024-07-28T10:07:10Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0358_EXS_BassElectricFingerStyle""
+]"
+MAContent10_AssetPack_0371_EXS_GuitarsAcoustic,3.0.0.0,installer,2024-07-28T10:07:12Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0371_EXS_GuitarsAcoustic""
+]"
+MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat,2.0.0.0,installer,2024-07-28T10:07:13Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0375_EXS_GuitarsVintageStrat""
+]"
+MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax,2.0.0.0,installer,2024-07-28T10:07:14Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0482_EXS_OrchWoodwindAltoSax""
+]"
+MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo,3.0.0.0,installer,2024-07-28T10:07:16Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0484_EXS_OrchWoodwindClarinetSolo""
+]"
+MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo,3.0.0.0,installer,2024-07-28T10:07:17Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0487_EXS_OrchWoodwindFluteSolo""
+]"
+MAContent10_AssetPack_0491_EXS_OrchBrass,3.0.0.0,installer,2024-07-28T10:07:19Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0491_EXS_OrchBrass""
+]"
+MAContent10_AssetPack_0509_EXS_StringsEnsemble,2.0.0.0,installer,2024-07-28T10:07:21Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0509_EXS_StringsEnsemble""
+]"
+MAContent10_AssetPack_0536_DrummerClapsCowbell,2.0.0.0,installer,2024-07-28T10:07:22Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0536_DrummerClapsCowbell""
+]"
+MAContent10_AssetPack_0537_DrummerShaker,2.0.0.0,installer,2024-07-28T10:07:23Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0537_DrummerShaker""
+]"
+MAContent10_AssetPack_0538_DrummerSticks,2.0.0.0,installer,2024-07-28T10:07:24Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0538_DrummerSticks""
+]"
+MAContent10_AssetPack_0539_DrummerTambourine,2.0.0.0,installer,2024-07-28T10:07:26Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0539_DrummerTambourine""
+]"
+MAContent10_AssetPack_0540_PlugInSettingsGB,2.0.0.0,installer,2024-07-28T10:07:27Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0540_PlugInSettingsGB""
+]"
+MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2,2.1.0.0,installer,2024-07-28T10:07:28Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0554_AppleLoopsDiscoFunk2""
+]"
+MAContent10_AssetPack_0557_IRsSharedAUX,2.0.0.0,installer,2024-07-28T10:07:29Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0557_IRsSharedAUX""
+]"
+MAContent10_AssetPack_0560_LTPBasicPiano1,2.0.0.0,installer,2024-07-28T10:07:31Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0560_LTPBasicPiano1""
+]"
+MAContent10_AssetPack_0593_DrummerSoCalGBLogic,2.0.0.0,installer,2024-07-28T10:07:34Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0593_DrummerSoCalGBLogic""
+]"
+MAContent10_AssetPack_0597_LTPChordTrainer,2.0.0.0,installer,2024-07-28T10:07:36Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0597_LTPChordTrainer""
+]"
+MAContent10_AssetPack_0598_LTPBasicGuitar1,2.0.0.0,installer,2024-07-28T10:07:38Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0598_LTPBasicGuitar1""
+]"
+MAContent10_AssetPack_0615_GBLogicAlchemyEssentials,2.0.0.0,installer,2024-07-28T10:07:41Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0615_GBLogicAlchemyEssentials""
+]"
+MAContent10_AssetPack_0637_AppleLoopsDrummerKyle,3.1.0.0,installer,2024-07-28T10:07:42Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0637_AppleLoopsDrummerKyle""
+]"
+MAContent10_AssetPack_0646_AppleLoopsDrummerElectronic,3.1.0.0,installer,2024-07-28T10:07:44Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0646_AppleLoopsDrummerElectronic""
+]"
+MAContent10_AssetPack_0806_PlugInSettingsGBLogic,2.0.0.0,installer,2024-07-28T10:07:46Z,,"[
+ ""com.apple.pkg.MAContent10_AssetPack_0806_PlugInSettingsGBLogic""
+]"
+MRTConfigData," 1.93",softwareupdated,2024-08-27T15:52:25Z,config-data,"[
+ ""com.apple.pkg.MRTConfigData_10_15.16U4211""
+]"
+XProtectPlistConfigData," 5271",softwareupdated,2024-08-27T15:52:25Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4326""
+]"
+XProtectPayloads," 142",softwareupdated,2024-08-27T15:52:25Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4331""
+]"
+macOS 14.6.1,14.6.1,softwareupdated,2024-08-27T16:14:26Z,,
+Goodnotes,6.3.56,appstoreagent,2024-08-28T17:10:28Z,,"[
+ ""com.goodnotesapp.x""
+]"
+XProtectPlistConfigData," 5272",softwareupdated,2024-08-29T10:16:57Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4333""
+]"
+XProtectPayloads," 145",softwareupdated,2024-09-09T08:07:42Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4335""
+]"
+Goodnotes,6.3.61,appstoreagent,2024-09-10T16:32:55Z,,"[
+ ""com.goodnotesapp.x""
+]"
+Numbers," 14.1",appstoreagent,2024-09-15T21:33:11Z,,"[
+ ""com.apple.pkg.Numbers14""
+]"
+Keynote," 14.1",appstoreagent,2024-09-15T21:34:26Z,,"[
+ ""com.apple.pkg.Keynote14""
+]"
+Pages," 14.1",appstoreagent,2024-09-15T21:35:28Z,,"[
+ ""com.apple.pkg.Pages14""
+]"
+iMovie,10.4.2,appstoreagent,2024-09-15T22:04:48Z,,"[
+ ""com.apple.pkg.iMovie_AppStore""
+]"
+XProtectPlistConfigData," 5274",softwareupdated,2024-09-18T20:29:57Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4337""
+]"
+macOS 15.0," 15.0",softwareupdated,2024-09-19T09:18:56Z,,
+MRTConfigData," 1.93",softwareupdated,2024-09-19T09:32:51Z,config-data,"[
+ ""com.apple.pkg.MRTConfigData_10_15.16U4211""
+]"
+Gatekeeper Compatibility Data," 1.0",softwareupdated,2024-09-19T09:32:51Z,config-data,"[
+ ""com.apple.pkg.GatekeeperCompatibilityData.16U1906""
+]"
+Trello,2.15.0,appstoreagent,2024-09-19T10:08:58Z,,"[
+ ""com.atlassian.trello""
+]"
+Trello,2.15.1,appstoreagent,2024-09-20T20:39:56Z,,"[
+ ""com.atlassian.trello""
+]"
+Numbers," 14.2",appstoreagent,2024-09-22T12:15:12Z,,"[
+ ""com.apple.pkg.Numbers14""
+]"
+Keynote," 14.2",appstoreagent,2024-09-22T12:16:45Z,,"[
+ ""com.apple.pkg.Keynote14""
+]"
+Pages," 14.2",appstoreagent,2024-09-22T12:18:14Z,,"[
+ ""com.apple.pkg.Pages14""
+]"
+XProtectPlistConfigData," 5275",softwareupdated,2024-09-26T15:31:44Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4338""
+]"
+Python,,Installer,2024-09-27T12:37:26Z,,"[
+ ""org.python.Python.PythonFramework-3.12"",
+ ""org.python.Python.PythonApplications-3.12"",
+ ""org.python.Python.PythonUnixTools-3.12"",
+ ""org.python.Python.PythonDocumentation-3.12"",
+ ""org.python.Python.PythonProfileChanges-3.12"",
+ ""org.python.Python.PythonInstallPip-3.12""
+]"
+XProtectPlistConfigData," 5276",softwareupdated,2024-10-08T11:00:05Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4340""
+]"
+macOS 15.0.1,15.0.1,softwareupdated,2024-10-08T11:17:49Z,,
+XProtectCloudKitUpdate," 5278",XProtectUpdateService,2024-10-17T12:06:18Z,,
+XProtectPlistConfigData," 5278",softwareupdated,2024-10-22T11:11:50Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4344""
+]"
+XProtectPayloads," 147",softwareupdated,2024-10-22T11:11:50Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4343""
+]"
+Trello,2.15.2,appstoreagent,2024-10-24T12:30:27Z,,"[
+ ""com.atlassian.trello""
+]"
+Goodnotes,6.5.7,appstoreagent,2024-10-24T12:44:01Z,,"[
+ ""com.goodnotesapp.x""
+]"
+XProtectCloudKitUpdate," 5279",XProtectUpdateService,2024-11-06T12:05:45Z,,
+XProtectPlistConfigData," 5279",softwareupdated,2024-11-11T21:59:12Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4347""
+]"
+macOS 15.1," 15.1",softwareupdated,2024-11-11T22:22:58Z,,
+XProtectCloudKitUpdate," 5282",XProtectUpdateService,2024-11-13T15:03:50Z,,
+XProtectPlistConfigData," 5283",softwareupdated,2024-11-19T21:18:58Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4349""
+]"
+macOS 15.1.1,15.1.1,softwareupdated,2024-11-19T21:31:17Z,,
+macOS 15.2," 15.2",softwareupdated,2024-12-15T09:12:19Z,,
+XProtectCloudKitUpdate," 5284",XProtectUpdateService,2024-12-18T11:49:27Z,,
+XProtectPlistConfigData," 5284",softwareupdated,2024-12-23T15:14:06Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4352""
+]"
+XProtectPayloads," 149",softwareupdated,2024-12-23T15:14:12Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4351""
+]"
+Anaconda3 2024.10-1,,Installer,2025-01-07T00:20:04Z,,"[
+ ""io.continuum.pkg.prepare_installation"",
+ ""io.continuum.pkg.shortcuts"",
+ ""io.continuum.pkg.run_installation"",
+ ""io.continuum.pkg.pathupdate""
+]"
+XProtectCloudKitUpdate," 5285",XProtectUpdateService,2025-01-16T20:15:46Z,,
+XProtectPlistConfigData," 5285",softwareupdated,2025-01-21T19:09:15Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4353""
+]"
+XProtectCloudKitUpdate," 5286",XProtectUpdateService,2025-01-29T09:35:47Z,,
+XProtectCloudKitUpdate," 5287",XProtectUpdateService,2025-02-06T11:03:31Z,,
+XProtectPlistConfigData," 5288",softwareupdated,2025-02-26T22:03:48Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4356""
+]"
+RosettaUpdateAuto,,CoreServicesUIAgent,2025-02-27T11:24:06Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+macOS 15.3.1,15.3.1,softwareupdated,2025-02-27T21:35:40Z,,
+XProtectCloudKitUpdate," 5290",XProtectUpdateService,2025-03-12T18:08:25Z,,
+XProtectPlistConfigData," 5290",softwareupdated,2025-03-14T11:36:45Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4359""
+]"
+XProtectPayloads," 151",softwareupdated,2025-03-14T11:36:55Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4357""
+]"
+macOS 15.3.2,15.3.2,softwareupdated,2025-03-16T12:47:42Z,,
+RosettaUpdateAuto,,bootinstalld,2025-03-16T12:47:53Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectCloudKitUpdate," 5291",XProtectUpdateService,2025-03-26T15:08:34Z,,
+XProtectCloudKitUpdate," 5292",XProtectUpdateService,2025-04-02T10:47:20Z,,
+Zoom Workplace,6.4.3.52139,Installer,2025-04-02T21:31:36Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectPlistConfigData," 5292",softwareupdated,2025-04-08T08:29:40Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4363""
+]"
+XProtectCloudKitUpdate," 5293",XProtectUpdateService,2025-04-08T20:13:37Z,,
+XProtectCloudKitUpdate," 5295",XProtectUpdateService,2025-04-16T11:08:18Z,,
+XProtectCloudKitUpdate," 5296",XProtectUpdateService,2025-04-23T09:08:28Z,,
+XProtectPlistConfigData," 5296",softwareupdated,2025-04-28T22:19:11Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4367""
+]"
+Goodnotes,6.6.33,appstoreagent,2025-04-29T21:23:35Z,,"[
+ ""com.goodnotesapp.x""
+]"
+Trello,2.15.9,appstoreagent,2025-04-29T21:43:40Z,,"[
+ ""com.atlassian.trello""
+]"
+GarageBand,10.4.12,appstoreagent,2025-04-29T22:02:53Z,,"[
+ ""com.apple.pkg.GarageBand_AppStore""
+]"
+Keynote," 14.4",appstoreagent,2025-04-29T22:04:10Z,,"[
+ ""com.apple.pkg.Keynote14""
+]"
+Numbers," 14.4",appstoreagent,2025-04-30T20:14:09Z,,"[
+ ""com.apple.pkg.Numbers14""
+]"
+iMovie,10.4.3,appstoreagent,2025-04-30T20:16:58Z,,"[
+ ""com.apple.pkg.iMovie_AppStore""
+]"
+Pages," 14.4",appstoreagent,2025-04-30T20:21:06Z,,"[
+ ""com.apple.pkg.Pages14""
+]"
+XProtectCloudKitUpdate," 5297",XProtectUpdateService,2025-05-14T14:17:33Z,,
+XProtectCloudKitUpdate," 5298",XProtectUpdateService,2025-05-21T17:05:58Z,,
+XProtectCloudKitUpdate," 5299",XProtectUpdateService,2025-06-05T13:07:38Z,,
+XProtectPlistConfigData," 5299",softwareupdated,2025-06-06T08:42:25Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4370""
+]"
+Zoom Workplace,6.4.6.53970,installer,2025-06-06T15:59:08Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+macOS 15.5," 15.5",softwareupdated,2025-06-07T14:30:05Z,,
+RosettaUpdateAuto,,bootinstalld,2025-06-07T14:30:15Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectPlistConfigData," 5300",softwareupdated,2025-06-10T21:58:02Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4371""
+]"
+XProtectCloudKitUpdate," 5301",XProtectUpdateService,2025-06-18T18:49:46Z,,
+XProtectPlistConfigData," 5301",softwareupdated,2025-06-20T11:04:43Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4372""
+]"
+XProtectCloudKitUpdate," 5302",XProtectUpdateService,2025-06-25T06:43:22Z,,
+XProtectPlistConfigData," 5302",softwareupdated,2025-06-25T06:53:30Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4373""
+]"
+XProtectCloudKitUpdate," 5303",XProtectUpdateService,2025-07-02T07:22:33Z,,
+XProtectPlistConfigData," 5303",softwareupdated,2025-07-03T21:22:39Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4375""
+]"
+Command Line Tools for Xcode," 16.4",softwareupdated,2025-07-05T21:34:41Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+XProtectCloudKitUpdate," 5304",XProtectUpdateService,2025-07-09T11:58:31Z,,
+XProtectPlistConfigData," 5304",softwareupdated,2025-07-09T22:06:56Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4377""
+]"
+XProtectPayloads," 152",softwareupdated,2025-07-09T22:07:13Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4378""
+]"
+Zoom Workplace,6.4.12.56699,installer,2025-07-09T22:18:58Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectCloudKitUpdate," 5305",XProtectUpdateService,2025-07-17T12:12:23Z,,
+XProtectPlistConfigData," 5305",softwareupdated,2025-07-18T19:00:41Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4379""
+]"
+XProtectCloudKitUpdate," 5308",XProtectUpdateService,2025-07-24T12:38:32Z,,
+XProtectPlistConfigData," 5308",softwareupdated,2025-07-31T17:11:51Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4380""
+]"
+macOS 15.6," 15.6",softwareupdated,2025-08-02T22:58:20Z,,
+RosettaUpdateAuto,,bootinstalld,2025-08-02T22:58:31Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectCloudKitUpdate," 5309",XProtectUpdateService,2025-08-06T17:35:54Z,,
+XProtectPlistConfigData," 5309",softwareupdated,2025-08-06T17:58:37Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4383""
+]"
+XProtectPayloads," 153",softwareupdated,2025-08-06T17:59:13Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4381""
+]"
+DaVinci Resolve Panels Installer v2.3.3,,installer,2025-08-06T23:01:36Z,,"[
+ ""com.blackmagic-design.DaVinciPanels""
+]"
+DaVinci Keyboards Installer v2.3.3,,installer,2025-08-06T23:01:38Z,,"[
+ ""com.blackmagic-design.DaVinciKeyboards""
+]"
+Fairlight Panels Installer v2.3.3,,installer,2025-08-06T23:01:43Z,,"[
+ ""com.blackmagic-design.FairlightPanels""
+]"
+BlackmagicRaw_resolve,,installer,2025-08-06T23:01:52Z,,"[
+ ""com.blackmagic-design.BlackmagicRaw_resolve""
+]"
+DaVinci Resolve,,Installer,2025-08-06T23:01:53Z,,"[
+ ""com.blackmagic-design.ManifestLite"",
+ ""com.blackmagic-design.ManifestPanels"",
+ ""com.blackmagic-design.ManifestBlackmagicRawPlayer""
+]"
+XProtectCloudKitUpdate," 5310",XProtectUpdateService,2025-08-15T11:28:27Z,,
+XProtectCloudKitUpdate," 5311",XProtectUpdateService,2025-08-21T15:42:52Z,,
+XProtectCloudKitUpdate," 5312",XProtectUpdateService,2025-08-26T20:05:19Z,,
+Zoom Workplace,6.5.9.61929,installer,2025-08-30T06:16:42Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectPlistConfigData," 5312",softwareupdated,2025-08-30T07:23:19Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4386""
+]"
+macOS 15.6.1,15.6.1,softwareupdated,2025-08-30T12:21:39Z,,
+RosettaUpdateAuto,,bootinstalld,2025-08-30T12:21:50Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+ASAF_SDK,,installer,2025-09-03T18:25:06Z,,"[
+ ""com.Apple.pkg.ASAF.SDK""
+]"
+DaVinci Resolve Panels Installer v2.3.4,,installer,2025-09-03T18:25:19Z,,"[
+ ""com.blackmagic-design.DaVinciPanels""
+]"
+DaVinci Keyboards Installer v2.3.4,,installer,2025-09-03T18:25:20Z,,"[
+ ""com.blackmagic-design.DaVinciKeyboards""
+]"
+Fairlight Panels Installer v2.3.4,,installer,2025-09-03T18:25:25Z,,"[
+ ""com.blackmagic-design.FairlightPanels""
+]"
+BlackmagicRaw_resolve,,installer,2025-09-03T18:25:36Z,,"[
+ ""com.blackmagic-design.BlackmagicRaw_resolve""
+]"
+DaVinci Resolve,,Installer,2025-09-03T18:25:37Z,,"[
+ ""com.blackmagic-design.ManifestLite"",
+ ""com.blackmagic-design.ManifestPanels"",
+ ""com.blackmagic-design.ManifestBlackmagicRawPlayer""
+]"
+XProtectCloudKitUpdate," 5313",XProtectUpdateService,2025-09-04T17:38:41Z,,
+XProtectPlistConfigData," 5313",softwareupdated,2025-09-09T22:12:14Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4387""
+]"
+XProtectCloudKitUpdate," 5314",XProtectUpdateService,2025-09-12T05:37:44Z,,
+XProtectPlistConfigData," 5314",softwareupdated,2025-09-12T05:38:01Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4388""
+]"
+XProtectPlistConfigData," 5315",softwareupdated,2025-09-17T14:28:20Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4389""
+]"
+macOS 26.0," 26.0",softwareupdated,2025-09-17T15:37:08Z,,
+RosettaUpdateAuto,,bootinstalld,2025-09-17T15:37:15Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+MRTConfigData," 1.93",softwareupdated,2025-09-17T16:09:19Z,config-data,"[
+ ""com.apple.pkg.MRTConfigData_10_15.16U4211""
+]"
+Gatekeeper Compatibility Data," 1.0",softwareupdated,2025-09-17T16:09:19Z,config-data,"[
+ ""com.apple.pkg.GatekeeperCompatibilityData.16U1906""
+]"
+XProtectPlistConfigData," 5315",softwareupdated,2025-09-17T16:09:19Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4389""
+]"
+Command Line Tools for Xcode 26.0," 26.0",softwareupdated,2025-09-17T16:12:35Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+XProtectPayloads," 153",softwareupdated,2025-09-17T16:12:50Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4381""
+]"
+XProtectCloudKitUpdate," 5316",XProtectUpdateService,2025-09-24T15:23:58Z,,
+XProtectCloudKitUpdate," 5317",XProtectUpdateService,2025-10-01T03:24:14Z,,
+XProtectPlistConfigData," 5317",softwareupdated,2025-10-04T04:28:32Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4394""
+]"
+macOS 26.0.1,26.0.1,softwareupdated,2025-10-07T19:30:24Z,,
+RosettaUpdateAuto,,bootinstalld,2025-10-07T19:30:36Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectCloudKitUpdate," 5318",XProtectUpdateService,2025-10-10T11:36:43Z,,
+XProtectPlistConfigData," 5318",softwareupdated,2025-10-11T17:45:23Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4396""
+]"
+XProtectPlistConfigData," 5319",softwareupdated,2025-10-15T19:41:51Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4398""
+]"
+XProtectCloudKitUpdate," 5320",XProtectUpdateService,2025-10-22T06:02:55Z,,
+XProtectPlistConfigData," 5320",softwareupdated,2025-10-22T08:38:57Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4400""
+]"
+XProtectCloudKitUpdate," 5321",XProtectUpdateService,2025-10-23T19:58:45Z,,
+XProtectCloudKitUpdate," 5322",XProtectUpdateService,2025-11-09T15:22:23Z,,
+XProtectCloudKitUpdate," 5323",XProtectUpdateService,2025-11-13T11:16:20Z,,
+XProtectPayloads," 156",softwareupdated,2025-11-13T21:27:33Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4404""
+]"
+XProtectPlistConfigData," 5323",softwareupdated,2025-11-13T21:27:33Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4406""
+]"
+macOS 26.1," 26.1",softwareupdated,2025-11-16T14:55:58Z,,
+RosettaUpdateAuto,,bootinstalld,2025-11-16T14:56:06Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+Command Line Tools for Xcode 26.1," 26.1",softwareupdated,2025-11-19T17:30:52Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+XProtectCloudKitUpdate," 5324",XProtectUpdateService,2025-12-11T18:14:21Z,,
+XProtectPlistConfigData," 5325",softwareupdated,2025-12-22T15:16:35Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4408""
+]"
+Command Line Tools for Xcode 26.2," 26.2",softwareupdated,2025-12-25T21:15:23Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+macOS 26.2," 26.2",softwareupdated,2025-12-25T21:21:51Z,,
+RosettaUpdateAuto,,bootinstalld,2025-12-25T21:21:57Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+Zoom Workplace,6.6.10.69071,installer,2026-01-03T13:34:21Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectCloudKitUpdate," 5326",XProtectUpdateService,2026-01-23T08:37:43Z,,
+Tableau Public,"""20253.25.1210.1815"" ",Installer,2026-01-27T22:52:43Z,,"[
+ ""com.tableausoftware.FLEXNet.11.19.2"",
+ ""com.tableausoftware.Public.app""
+]"
+XProtectPlistConfigData," 5326",softwareupdated,2026-01-28T18:07:03Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4409""
+]"
+XProtectCloudKitUpdate," 5327",XProtectUpdateService,2026-02-03T22:36:36Z,,
+XProtectCloudKitUpdate," 5329",XProtectUpdateService,2026-02-12T14:32:54Z,,
+XProtectPlistConfigData," 5329",softwareupdated,2026-02-15T19:20:40Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4412""
+]"
+macOS 26.3," 26.3",softwareupdated,2026-02-15T20:54:41Z,,
+RosettaUpdateAuto,,bootinstalld,2026-02-15T20:54:55Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectCloudKitUpdate," 5330",XProtectUpdateService,2026-02-18T12:38:06Z,,
+XProtectPlistConfigData," 5330",softwareupdated,2026-02-24T16:32:58Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4414""
+]"
+XProtectPayloads," 157",softwareupdated,2026-02-24T16:32:58Z,config-data,"[
+ ""com.apple.pkg.XProtectPayloads_10_15.16U4413""
+]"
+XProtectCloudKitUpdate," 5331",XProtectUpdateService,2026-02-25T21:48:24Z,,
+GarageBand,10.4.13,appstoreagent,2026-02-25T21:50:23Z,,"[
+ ""com.apple.pkg.GarageBand_AppStore""
+]"
+Pages," 14.5",appstoreagent,2026-02-25T21:51:23Z,,"[
+ ""com.apple.pkg.Pages14""
+]"
+Numbers," 14.5",appstoreagent,2026-02-25T21:53:05Z,,"[
+ ""com.apple.pkg.Numbers14""
+]"
+Keynote," 14.5",appstoreagent,2026-02-25T21:53:47Z,,"[
+ ""com.apple.pkg.Keynote14""
+]"
+iMovie,10.4.3,appstoreagent,2026-02-25T21:56:24Z,,"[
+ ""com.apple.pkg.iMovie_AppStore""
+]"
+Zoom Workplace,6.6.11.70003,installer,2026-02-27T13:40:47Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectCloudKitUpdate," 5332",XProtectUpdateService,2026-03-05T11:56:32Z,,
+XProtectCloudKitUpdate," 5333",XProtectUpdateService,2026-03-11T20:01:26Z,,
+XProtectCloudKitUpdate," 5334",XProtectUpdateService,2026-03-18T07:32:36Z,,
+Zoom Workplace,6.7.7.76486,installer,2026-03-18T07:34:04Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectCloudKitUpdate," 5335",XProtectUpdateService,2026-03-26T07:42:22Z,,
+XProtectPlistConfigData," 5335",softwareupdated,2026-03-26T14:35:13Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4419""
+]"
+XProtectPlistConfigData," 5336",softwareupdated,2026-04-03T13:22:03Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4420""
+]"
+XProtectCloudKitUpdate," 5337",XProtectUpdateService,2026-04-03T13:22:55Z,,
+XProtectPlistConfigData," 5337",softwareupdated,2026-04-06T10:36:32Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4421""
+]"
+XProtectPlistConfigData," 5338",softwareupdated,2026-04-10T14:10:32Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4423""
+]"
+Command Line Tools for Xcode 26.4," 26.4",softwareupdated,2026-04-16T14:30:14Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+macOS 26.4.1,26.4.1,softwareupdated,2026-04-16T15:27:41Z,,
+RosettaUpdateAuto,,bootinstalld,2026-04-16T15:27:47Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+Command Line Tools for Xcode 26.4,26.4.1,softwareupdated,2026-04-27T04:04:00Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+XProtectCloudKitUpdate," 5341",XProtectUpdateService,2026-04-29T01:24:48Z,,
+XProtectPlistConfigData," 5341",softwareupdated,2026-04-29T18:33:18Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4425""
+]"
+XProtectCloudKitUpdate," 5342",XProtectUpdateService,2026-05-06T08:17:17Z,,
+XProtectPlistConfigData," 5342",softwareupdated,2026-05-12T04:17:29Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4426""
+]"
+XProtectCloudKitUpdate," 5344",XProtectUpdateService,2026-05-14T16:03:14Z,,
+XProtectPlistConfigData," 5344",softwareupdated,2026-05-17T14:09:38Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4427""
+]"
+XProtectCloudKitUpdate," 5345",XProtectUpdateService,2026-05-20T08:27:08Z,,
+XProtectCloudKitUpdate," 5346",XProtectUpdateService,2026-05-31T11:41:14Z,,
+XProtectPlistConfigData," 5347",softwareupdated,2026-06-03T07:17:06Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4430""
+]"
+Microsoft Teams,26134.1610.4759.7759,Installer,2026-06-13T12:46:01Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.package.Microsoft_AutoUpdate.app"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Microsoft Teams,26149.1804.4788.5681,installer,2026-06-15T14:34:25Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Command Line Tools for Xcode 26.5," 26.5",softwareupdated,2026-06-16T20:02:55Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+macOS 26.5.1,26.5.1,softwareupdated,2026-06-16T20:11:54Z,,
+RosettaUpdateAuto,,bootinstalld,2026-06-16T20:12:05Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+Zoom Workplace,7.0.5.81138,installer,2026-06-26T19:39:06Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+Microsoft Teams,26163.407.4839.8659,installer,2026-06-29T11:25:31Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+XProtectCloudKitUpdate," 5351",XProtectUpdateService,2026-07-16T08:26:48Z,,
+Microsoft AutoUpdate,,installer,2026-07-16T09:47:54Z,,"[
+ ""com.microsoft.package.Microsoft_AutoUpdate.app""
+]"
+XProtectPlistConfigData," 5351",softwareupdated,2026-07-17T17:45:21Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4437""
+]"
+Command Line Tools for Xcode 26.6," 26.6",softwareupdated,2026-07-17T17:49:18Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"
+macOS 26.5.2,26.5.2,softwareupdated,2026-07-17T17:56:14Z,,
+RosettaUpdateAuto,,bootinstalld,2026-07-17T17:56:25Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+Microsoft Teams,26183.1901.4874.5228,installer,2026-07-23T02:04:27Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+XProtectCloudKitUpdate," 5352",XProtectUpdateService,2026-07-25T06:25:28Z,,
+XProtectCloudKitUpdate," 5353",XProtectUpdateService,2026-07-29T03:52:02Z,,
+XProtectPlistConfigData," 5353",softwareupdated,2026-08-03T08:08:34Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4440""
+]"
+Microsoft Teams,26198.202.4929.7171,installer,2026-08-03T11:00:54Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Zoom Workplace,7.0.6.84834,installer,2026-08-04T14:32:27Z,,"[
+ ""us.zoom.pkg.videomeeting""
+]"
+XProtectCloudKitUpdate," 5354",XProtectUpdateService,2026-08-06T12:51:09Z,,
+XProtectPlistConfigData," 5354",softwareupdated,2026-08-09T09:52:50Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4441""
+]"
+MySQL 26.7.0-community,,Installer,2026-08-09T17:34:29Z,,"[
+ ""com.mysql.mysql"",
+ ""com.mysql.launchd""
+]"
+GarageBand,10.4.14,appstoreagent,2026-08-09T17:58:05Z,,"[
+ ""com.apple.pkg.GarageBand_AppStore""
+]"
+XProtectCloudKitUpdate," 5355",XProtectUpdateService,2026-08-12T13:17:22Z,,
+Microsoft AutoUpdate,,installer,2026-08-13T18:56:38Z,,"[
+ ""com.microsoft.package.Microsoft_AutoUpdate.app""
+]"
+XProtectPlistConfigData," 5355",softwareupdated,2026-08-16T15:35:49Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4442""
+]"
+XProtectCloudKitUpdate," 5356",XProtectUpdateService,2026-08-19T12:49:24Z,,
+Microsoft Teams,26213.1006.5011.1671,installer,2026-08-19T13:03:32Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Tableau Desktop,"""20262.26.0708.1337"" ",Installer,2026-08-19T13:10:32Z,,"[
+ ""com.tableausoftware.FLEXNet.11.19.2"",
+ ""com.tableausoftware.Desktop.app"",
+ ""com.tableausoftware.extensions"",
+ ""com.tableausoftware.networkExtensions""
+]"
+ChmodBPF," 1.2",Installer,2026-08-23T06:14:25Z,,"[
+ ""org.wireshark.ChmodBPF.pkg""
+]"
+XProtectCloudKitUpdate," 5357",XProtectUpdateService,2026-08-26T12:51:56Z,,
+XProtectPlistConfigData," 5356",softwareupdated,2026-08-26T15:25:04Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4444""
+]"
+XProtectPlistConfigData," 5357",softwareupdated,2026-08-27T19:40:28Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4445""
+]"
+macOS 26.6.2,26.6.2,softwareupdated,2026-08-27T19:48:14Z,,
+RosettaUpdateAuto,,bootinstalld,2026-08-27T19:48:21Z,,"[
+ ""com.apple.pkg.RosettaUpdateAuto""
+]"
+XProtectCloudKitUpdate," 5358",XProtectUpdateService,2026-09-02T04:22:47Z,,
+XProtectPlistConfigData," 5358",softwareupdated,2026-09-06T13:14:37Z,config-data,"[
+ ""com.apple.pkg.XProtectPlistConfigData_10_15.16U4447""
+]"
+Microsoft Teams,26225.1704.5081.2906,installer,2026-09-07T09:32:16Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Microsoft Teams,26225.1706.5101.3140,installer,2026-09-11T01:18:45Z,,"[
+ ""com.microsoft.teams2"",
+ ""com.microsoft.MSTeamsAudioDevice""
+]"
+Adobe Acrobat,,Installer,2026-09-11T11:32:55Z,,"[
+ ""com.adobe.acrobat.DC.sca.entryPackage.application.1.pkg.MUI"",
+ ""com.adobe.acrobat.DC.scamini.app.pkg.MUI"",
+ ""com.adobe.acrobat.DC.sca.config.application.1.pkg.MUI"",
+ ""com.adobe.acrobat.DC.scamini.appsupport.pkg.MUI"",
+ ""com.adobe.AcroMiniServicesUpdater"",
+ ""com.adobe.armdc.app.pkg"",
+ ""com.adobe.acrobat.DC.sca.exitPackage.application.1.pkg.MUI""
+]"
+Tailscale,,installer,2026-09-11T16:47:41Z,,"[
+ ""com.tailscale.ipn.macsys""
+]"
+Command Line Tools for Xcode 27.0," 27.0",softwareupdated,2026-09-12T04:42:03Z,,"[
+ ""com.apple.pkg.CLTools_Executables"",
+ ""com.apple.pkg.CLTools_SDK_macOS_NMOS"",
+ ""com.apple.pkg.CLTools_SDK_macOS_LMOS"",
+ ""com.apple.pkg.CLTools_macOS_SDK"",
+ ""com.apple.pkg.CLTools_SwiftBackDeploy"",
+ ""com.apple.pkg.CLTools_SDK_macOS14"",
+ ""com.apple.pkg.CLTools_SDK_macOS13"",
+ ""com.apple.pkg.CLTools_SDK_macOS12"",
+ ""com.apple.pkg.CLTools_SDK_macOS110""
+]"

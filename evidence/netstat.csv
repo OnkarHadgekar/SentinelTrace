@@ -1,0 +1,715 @@
+Laddr,Lport,Raddr,Rport,Pid,Status,Type,ProcInfo,CallChain,ChildrenTree
+PRIVATE_IP_REDACTED,52062,162.125.40.1,443,39471,ESTAB,TCP,"{
+ ""Pid"": ""39471"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+  ""-LaunchArguments"",
+  ""eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""Times"": {
+  ""user"": 46.83271045833333,
+  ""system"": 56.4712475
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Cwd"": ""/Users/REDACTED_USER/Library/Containers/com.getdropbox.dropbox.fileprovider/Data"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 23822336,
+  ""vms"": 446030659584,
+  ""swap"": 44099
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider,
+2401:4900:1c9a:87a9:8c12:2b:f6b5:27bd,52061,2620:100:6031:19::a27d:5113,443,39470,ESTAB,TCP,"{
+ ""Pid"": ""39470"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox /firstrunupdate 18667"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+  ""/firstrunupdate"",
+  ""18667""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""Times"": {
+  ""user"": 130.516354,
+  ""system"": 86.700852125
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 113541120,
+  ""vms"": 1938095734784,
+  ""swap"": 125920
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/MacOS/Dropbox,
+PRIVATE_IP_REDACTED,52060,162.125.40.1,443,39470,ESTAB,TCP,"{
+ ""Pid"": ""39470"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox /firstrunupdate 18667"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+  ""/firstrunupdate"",
+  ""18667""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""Times"": {
+  ""user"": 130.516354,
+  ""system"": 86.700852125
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 113541120,
+  ""vms"": 1938095734784,
+  ""swap"": 125920
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/MacOS/Dropbox,
+127.0.0.1,8889,127.0.0.1,52059,67154,ESTAB,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,52059,127.0.0.1,8889,42643,ESTAB,TCP,"{
+ ""Pid"": ""42643"",
+ ""Name"": ""/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"",
+ ""_Argv"": [
+  ""/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking""
+ ],
+ ""CreateTime"": ""2026-09-11T02:24:39.000000352Z"",
+ ""Times"": {
+  ""user"": 365.16029425,
+  ""system"": 248.84981308333332
+ },
+ ""Exe"": ""/System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking"",
+ ""Cwd"": ""/System/Volumes/Preboot/Cryptexes/Incoming/OS/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 34996224,
+  ""vms"": 450911485952,
+  ""swap"": 81439
+ },
+ ""StartTime"": ""2026-09-11T02:24:39.000000352Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking,
+fe80:b::c9d:426e:8257:26a0,52057,fe80:b::486:626d:b60b:a72a,49163,994,ESTAB,TCP,"{
+ ""Pid"": ""994"",
+ ""Name"": ""/usr/libexec/rapportd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/usr/libexec/rapportd"",
+ ""_Argv"": [
+  ""/usr/libexec/rapportd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""Times"": {
+  ""user"": 59.620875625,
+  ""system"": 43.86425183333333
+ },
+ ""Exe"": ""/usr/libexec/rapportd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 13959168,
+  ""vms"": 445877747712,
+  ""swap"": 83070
+ },
+ ""StartTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/usr/libexec/rapportd,
+::,52056,::,0,994,LISTEN,TCP,"{
+ ""Pid"": ""994"",
+ ""Name"": ""/usr/libexec/rapportd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/usr/libexec/rapportd"",
+ ""_Argv"": [
+  ""/usr/libexec/rapportd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""Times"": {
+  ""user"": 59.620875625,
+  ""system"": 43.86425183333333
+ },
+ ""Exe"": ""/usr/libexec/rapportd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 13959168,
+  ""vms"": 445877747712,
+  ""swap"": 83070
+ },
+ ""StartTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/usr/libexec/rapportd,
+0.0.0.0,52056,0.0.0.0,0,994,LISTEN,TCP,"{
+ ""Pid"": ""994"",
+ ""Name"": ""/usr/libexec/rapportd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/usr/libexec/rapportd"",
+ ""_Argv"": [
+  ""/usr/libexec/rapportd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""Times"": {
+  ""user"": 59.620875625,
+  ""system"": 43.86425183333333
+ },
+ ""Exe"": ""/usr/libexec/rapportd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 13959168,
+  ""vms"": 445877747712,
+  ""swap"": 83070
+ },
+ ""StartTime"": ""2026-08-27T19:48:27.000000813Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/usr/libexec/rapportd,
+2401:4900:1c9a:87a9:8c12:2b:f6b5:27bd,52049,2620:100:6031:19::a27d:5113,443,39471,ESTAB,TCP,"{
+ ""Pid"": ""39471"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+  ""-LaunchArguments"",
+  ""eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""Times"": {
+  ""user"": 46.83271045833333,
+  ""system"": 56.4712475
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Cwd"": ""/Users/REDACTED_USER/Library/Containers/com.getdropbox.dropbox.fileprovider/Data"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 23822336,
+  ""vms"": 446030659584,
+  ""swap"": 44099
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider,
+127.0.0.1,8000,127.0.0.1,51970,0,ESTAB,TCP,"{
+ ""Pid"": ""0"",
+ ""Name"": ""kernel_task"",
+ ""Ppid"": ""0"",
+ ""CommandLine"": ""kernel_task"",
+ ""_Argv"": [
+  ""kernel_task""
+ ],
+ ""CreateTime"": ""2026-08-27T19:46:29.000000611Z"",
+ ""Times"": {
+  ""user"": 0,
+  ""system"": 17839.559202125
+ },
+ ""Exe"": """",
+ ""Cwd"": ""/"",
+ ""Uid"": 0,
+ ""Username"": ""root"",
+ ""MemoryInfo"": {
+  ""rss"": 0,
+  ""vms"": 362473455616,
+  ""swap"": 0
+ },
+ ""StartTime"": ""2026-08-27T19:46:29.000000611Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",kernel_task,
+127.0.0.1,51970,127.0.0.1,8000,67200,ESTAB,TCP,"{
+ ""Pid"": ""67200"",
+ ""Name"": ""./velociraptor"",
+ ""Ppid"": ""67199"",
+ ""CommandLine"": ""./velociraptor --config client.config.yaml client -v"",
+ ""_Argv"": [
+  ""./velociraptor"",
+  ""--config"",
+  ""client.config.yaml"",
+  ""client"",
+  ""-v""
+ ],
+ ""CreateTime"": ""2026-09-14T05:10:41.000000178Z"",
+ ""Times"": {
+  ""user"": 10.970365291666665,
+  ""system"": 5.186130583333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 0,
+ ""Username"": ""root"",
+ ""MemoryInfo"": {
+  ""rss"": 50675712,
+  ""vms"": 451481370624,
+  ""swap"": 2328
+ },
+ ""StartTime"": ""2026-09-14T05:10:41.000000178Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",./velociraptor,
+127.0.0.1,8001,127.0.0.1,51921,67154,ESTAB,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+::,8000,::,0,67154,LISTEN,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,8889,0.0.0.0,0,67154,LISTEN,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,51921,127.0.0.1,8001,67154,ESTAB,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,8003,0.0.0.0,0,67154,LISTEN,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,8001,0.0.0.0,0,67154,LISTEN,TCP,"{
+ ""Pid"": ""67154"",
+ ""Name"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Ppid"": ""67152"",
+ ""CommandLine"": ""/Users/REDACTED_USER/velociraptor/velociraptor --config server.config.yaml frontend"",
+ ""_Argv"": [
+  ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+  ""--config"",
+  ""server.config.yaml"",
+  ""frontend""
+ ],
+ ""CreateTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""Times"": {
+  ""user"": 8.724542375,
+  ""system"": 7.725244958333333
+ },
+ ""Exe"": ""/Users/REDACTED_USER/velociraptor/velociraptor"",
+ ""Cwd"": ""/Users/REDACTED_USER/velociraptor"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 73383936,
+  ""vms"": 451530801152,
+  ""swap"": 3873
+ },
+ ""StartTime"": ""2026-09-14T05:04:38.000000253Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Users/REDACTED_USER/velociraptor/velociraptor,
+127.0.0.1,17603,0.0.0.0,0,39470,LISTEN,TCP,"{
+ ""Pid"": ""39470"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox /firstrunupdate 18667"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+  ""/firstrunupdate"",
+  ""18667""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""Times"": {
+  ""user"": 130.516354,
+  ""system"": 86.700852125
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 113541120,
+  ""vms"": 1938095734784,
+  ""swap"": 125920
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/MacOS/Dropbox,
+127.0.0.1,17600,0.0.0.0,0,39470,LISTEN,TCP,"{
+ ""Pid"": ""39470"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox /firstrunupdate 18667"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+  ""/firstrunupdate"",
+  ""18667""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""Times"": {
+  ""user"": 130.516354,
+  ""system"": 86.700852125
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/MacOS/Dropbox"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 113541120,
+  ""vms"": 1938095734784,
+  ""swap"": 125920
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.000000317Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/MacOS/Dropbox,
+0.0.0.0,17500,0.0.0.0,0,39471,LISTEN,TCP,"{
+ ""Pid"": ""39471"",
+ ""Name"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider -LaunchArguments eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9"",
+ ""_Argv"": [
+  ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+  ""-LaunchArguments"",
+  ""eyJlbmhhbmNlZFNlY3VyaXR5IjpmYWxzZSwic2VydmljZU5hbWUiOiJjb20uZ2V0ZHJvcGJveC5kcm9wYm94LmZpbGVwcm92aWRlciIsInR5cGUiOjF9""
+ ],
+ ""CreateTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""Times"": {
+  ""user"": 46.83271045833333,
+  ""system"": 56.4712475
+ },
+ ""Exe"": ""/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider"",
+ ""Cwd"": ""/Users/REDACTED_USER/Library/Containers/com.getdropbox.dropbox.fileprovider/Data"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 23822336,
+  ""vms"": 446030659584,
+  ""swap"": 44099
+ },
+ ""StartTime"": ""2026-09-10T05:48:53.00000064Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/Applications/Dropbox.app/Contents/PlugIns/DropboxFileProvider.appex/Contents/MacOS/DropboxFileProvider,
+fe80:15::aa92:67c1:9395:9210,1028,fe80:15::4eb:ebb0:1742:53f8,1025,1016,ESTAB,TCP,"{
+ ""Pid"": ""1016"",
+ ""Name"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""_Argv"": [
+  ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""Times"": {
+  ""user"": 99.28666429166665,
+  ""system"": 101.57404875
+ },
+ ""Exe"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 21053440,
+  ""vms"": 445892476928,
+  ""swap"": 182198
+ },
+ ""StartTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd,
+fe80:15::aa92:67c1:9395:9210,1024,fe80:15::4eb:ebb0:1742:53f8,1024,1016,ESTAB,TCP,"{
+ ""Pid"": ""1016"",
+ ""Name"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""_Argv"": [
+  ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""Times"": {
+  ""user"": 99.28666429166665,
+  ""system"": 101.57404875
+ },
+ ""Exe"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 21053440,
+  ""vms"": 445892476928,
+  ""swap"": 182198
+ },
+ ""StartTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd,
+fe80:14::df37:d383:a8af:46ec,1025,fe80:14::cc17:ebf:1614:15ed,1027,1016,ESTAB,TCP,"{
+ ""Pid"": ""1016"",
+ ""Name"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""_Argv"": [
+  ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""Times"": {
+  ""user"": 99.28666429166665,
+  ""system"": 101.57404875
+ },
+ ""Exe"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 21053440,
+  ""vms"": 445892476928,
+  ""swap"": 182198
+ },
+ ""StartTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd,
+fe80:14::df37:d383:a8af:46ec,1024,fe80:14::cc17:ebf:1614:15ed,1024,1016,ESTAB,TCP,"{
+ ""Pid"": ""1016"",
+ ""Name"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""_Argv"": [
+  ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""Times"": {
+  ""user"": 99.28666429166665,
+  ""system"": 101.57404875
+ },
+ ""Exe"": ""/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 21053440,
+  ""vms"": 445892476928,
+  ""swap"": 182198
+ },
+ ""StartTime"": ""2026-08-27T19:48:28.000000025Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd,
+::,5000,::,0,1212,LISTEN,TCP,"{
+ ""Pid"": ""1212"",
+ ""Name"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""_Argv"": [
+  ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""Times"": {
+  ""user"": 300.477606875,
+  ""system"": 210.52074829166665
+ },
+ ""Exe"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 35782656,
+  ""vms"": 446175133696,
+  ""swap"": 224213
+ },
+ ""StartTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter,
+0.0.0.0,5000,0.0.0.0,0,1212,LISTEN,TCP,"{
+ ""Pid"": ""1212"",
+ ""Name"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""_Argv"": [
+  ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""Times"": {
+  ""user"": 300.477606875,
+  ""system"": 210.52074829166665
+ },
+ ""Exe"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 35782656,
+  ""vms"": 446175133696,
+  ""swap"": 224213
+ },
+ ""StartTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter,
+::,7000,::,0,1212,LISTEN,TCP,"{
+ ""Pid"": ""1212"",
+ ""Name"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Ppid"": ""1"",
+ ""CommandLine"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""_Argv"": [
+  ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter""
+ ],
+ ""CreateTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""Times"": {
+  ""user"": 300.477606875,
+  ""system"": 210.52074829166665
+ },
+ ""Exe"": ""/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter"",
+ ""Cwd"": ""/"",
+ ""Uid"": 501,
+ ""Username"": ""REDACTED_USER"",
+ ""MemoryInfo"": {
+  ""rss"": 35782656,
+  ""vms"": 446175133696,
+  ""swap"": 224213
+ },
+ ""StartTime"": ""2026-08-27T19:48:45.00000018Z"",
+ ""EndTime"": ""0001-01-01T00:00:00Z""
+}",/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter,

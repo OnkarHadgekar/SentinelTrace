@@ -1,0 +1,28 @@
+OSPath,Mtime,Disabled,Upload
+/var/db/com.apple.xpc.launchd/disabled.501.plist,2026-09-01T16:17:02.056551244Z,"{
+ ""com.apple.FolderActionsDispatcher"": true,
+ ""com.apple.ManagedClientAgent.enrollagent"": true,
+ ""com.apple.ScriptMenuApp"": true,
+ ""com.apple.Siri.agent"": false,
+ ""com.apple.appleseed.seedusaged.postinstall"": true,
+ ""com.grammarly.ProjectLlama.LoginHelper"": false,
+ ""com.microsoft.teams2.agent"": false,
+ ""com.microsoft.update.agent"": false,
+ ""com.spotify.client.startuphelper"": false,
+ ""com.surfshark.vpnclient.macos.direct.launchAgent"": false
+}","{
+ ""Path"": ""/var/db/com.apple.xpc.launchd/disabled.501.plist"",
+ ""Size"": 742,
+ ""UploadId"": 0,
+ ""StoredSize"": 742,
+ ""sha256"": ""d88f386ec3d41f50ab4eb018e17eb856ab4d6248eb34d3d1a0a9dcef2a39b14b"",
+ ""md5"": ""313bb8e71bc0af04b4e50fd20c32caf7"",
+ ""StoredName"": ""/var/db/com.apple.xpc.launchd/disabled.501.plist"",
+ ""Components"": [
+  ""var"",
+  ""db"",
+  ""com.apple.xpc.launchd"",
+  ""disabled.501.plist""
+ ],
+ ""Accessor"": ""auto""
+}"
